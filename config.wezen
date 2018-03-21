@@ -7,3 +7,4 @@
 # KEY HAS TO BE THE RELATIVE PATH IN THE GIT REPOSITORY
 
 /Catalogue_import_SalesForce_V5.1.1.xlsx=/target/lol/mdr/test.xlsx
+/test2.xlsx=/target/lol/mdr/test123.xlsx
